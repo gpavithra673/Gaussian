@@ -6,6 +6,11 @@ To write a program to find the Gaussian Elimination with partial pivoting of a m
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+## Algorithm:
+1.Import numpy
+2.Import sys
+3.Use nested for loop for partial pivoting
+4.Print the solved matrix
 
 ## Program:
 ~~~
